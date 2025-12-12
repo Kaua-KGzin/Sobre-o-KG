@@ -60,7 +60,7 @@ Se quiser trocar uma ideia, colaborar ou perguntar qualquer coisa, estou por aqu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![cybersecurity](https://img.shields.io/badge/SSH-333?style=for-the-badge&logo=openssh&logoColor=fff)
+![cybersecurity](https://img.shields.io/badge/cybersecurity-333?style=for-the-badge&logo=openssh&logoColor=fff)
 
 ### Banco de Dados & Sistemas
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=fff)
