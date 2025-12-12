@@ -2,7 +2,7 @@
 # Olá! 👋
 
 Sou um desenvolvedor com forte foco em **Python**, **Java** e **C++**, linguagens que utilizo amplamente no dia a dia.  
-Também trabalho com **C#** quando necessário e tenho boa base em **JavaScript**, ainda que use com menos frequência.
+Também trabalho com **C#** quando necessário e tenho boa e longa base em **JavaScript**, ainda que use com menos frequência nos dias atuais.
 
 Gosto de projetar sistemas estáveis, entender seu comportamento no limite e otimizar onde realmente importa.  
 Tenho familiaridade com arquiteturas distribuídas, análise de desempenho e resolução de gargalos.
@@ -37,12 +37,13 @@ Tenho familiaridade com arquiteturas distribuídas, análise de desempenho e res
 - Tipos de redes (LAN, WAN, VPN)
 ---
 
-## 📌 O que eu gosto de criar
-- Sistemas performáticos  
-- Ferramentas internas e automações  
-- Aplicações que conversam através de rede  
-- Estruturas bem projetadas que não quebram ao menor sopro  
-
+## 📌 O que eu gosto de criar e fazer
+- Sistemas performáticos.
+- Ferramentas internas e automações.
+- Aplicações que conversam por meio de rede. 
+- Estruturas bem projetadas que não quebram facilmente.
+- Análise de segurança de redes e sistemas.
+- Além de caçar bugs e tentar ajudar no que possuo conhecimento.
 ---
 
 ## 📫 Contato
