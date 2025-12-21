@@ -1,12 +1,13 @@
 ## 🧠 Minhas Habilidades
 # Olá! 👋
 
-Sou um desenvolvedor com forte foco em **Python**, **Java** e **C++**, linguagens que utilizo amplamente no dia a dia.  
-Também trabalho com **C#** quando necessário e tenho boa e longa base em **JavaScript**, ainda que use com menos frequência nos dias atuais.
+Me chamo Kauã, mas quase todo mundo me conhece como KG.
+Sou estudante de T.I. na UNIFAEL e desenvolvedor por curiosidade, prática e diversão. Aprendo fazendo, quebrando coisas e consertando depois. Às vezes rindo do erro. Às vezes fingindo que era teste.
 
-Gosto de projetar sistemas estáveis, entender seu comportamento no limite e otimizar onde realmente importa.  
-Tenho familiaridade com arquiteturas distribuídas, análise de desempenho e resolução de gargalos.
+Tenho forte foco em Python, Java e C++, linguagens que uso bastante no dia a dia.
+Também trabalho com C# quando preciso e tenho uma base sólida em JavaScript, mesmo usando menos atualmente.
 
+Apesar do jeito descontraído (e frequentemente palhaço), gosto de código bem feito. Curto entender sistemas no limite, descobrir onde eles quebram e otimizar só o que realmente importa. Menos mágica, mais entendimento.
 ---
 
 ## 🧠 Principais Habilidades
