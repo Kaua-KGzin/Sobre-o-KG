@@ -1,7 +1,7 @@
 ## 🧠 Minhas Habilidades
 # Olá! 👋
 
-Me chamo Kauã, mas quase todo mundo me conhece como KG.
+Me chamo Kauã, mas quase todo mundo me conhece como KG pela web.
 Sou estudante de T.I. na UNIFAEL e desenvolvedor por curiosidade, prática e diversão. Aprendo fazendo, quebrando coisas e consertando depois. Às vezes rindo do erro. Às vezes fingindo que era teste.
 
 Tenho forte foco em Python, Java e C++, linguagens que uso bastante no dia a dia.
